@@ -1,0 +1,12 @@
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.Domain\bin\Debug\TestProject.Domain.dll
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.Domain\bin\Debug\TestProject.Domain.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\TestProject.Domain.dll
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\TestProject.Domain.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.Domain\obj\Debug\TestProject.Domain.dll
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.Domain\obj\Debug\TestProject.Domain.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.Domain\obj\Debug\TestProject.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.Domain.dll
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.Domain.pdb
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.Domain\obj\Debug\TestProject.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.Domain\obj\Debug\TestProject.Domain.dll
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.Domain\obj\Debug\TestProject.Domain.pdb

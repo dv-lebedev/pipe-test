@@ -1,0 +1,15 @@
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessTwo\bin\Debug\TestProject.ProcessTwo.exe.config
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessTwo\bin\Debug\TestProject.ProcessTwo.exe
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessTwo\bin\Debug\TestProject.ProcessTwo.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\TestProject.ProcessTwo.exe.config
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\TestProject.ProcessTwo.exe
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\TestProject.ProcessTwo.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.csprojResolveAssemblyReference.cache
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.exe
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.pdb
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.ProcessTwo.exe.config
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.ProcessTwo.exe
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.ProcessTwo.pdb
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.csprojResolveAssemblyReference.cache
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.exe
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.pdb

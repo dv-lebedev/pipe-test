@@ -1,0 +1,18 @@
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessOne\bin\Debug\TestProject.ProcessOne.exe.config
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessOne\bin\Debug\TestProject.ProcessOne.exe
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessOne\bin\Debug\TestProject.ProcessOne.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessOne\bin\Debug\data.xml
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\data.xml
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\TestProject.ProcessOne.exe.config
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\TestProject.ProcessOne.exe
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\Application\TestProject.ProcessOne.pdb
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.csprojResolveAssemblyReference.cache
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.exe
+c:\users\denis_lebedev\documents\visual studio 2015\Projects\TestProject\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.pdb
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.ProcessOne.exe.config
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.exe
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.pdb
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\data.xml
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.ProcessOne.exe
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.ProcessOne.pdb
+C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.csprojResolveAssemblyReference.cache

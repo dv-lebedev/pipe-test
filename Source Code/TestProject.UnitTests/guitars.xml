@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<store>
+  <products>
+    <guitars>
+      <guitar body="Mahogany" country="USA" year="2005">Gibson Les Paul Classic</guitar>
+      <guitar body="Alder" country="Mexico" year="2012">Squier Stratocaster</guitar>
+      <guitar body="Swamp Ash" country="USA" year="2007">Fender Telecaster</guitar>
+    </guitars>
+    <basses>
+      <bass body="Alder" country="Mexico" year="2010">Squier P-Bass</bass>
+      <bass body="Mahogany" country="USA" year="2010">Gibson Thunderbird</bass>
+    </basses>
+    <fx type="guitar-fx">
+      <pedals>
+        <pedal type="overdrive" year="2016">BOSS OD-3</pedal>
+      </pedals>
+    </fx>
+  </products>
+</store>
