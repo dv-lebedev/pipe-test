@@ -18,3 +18,14 @@ C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.UnitTests\bin
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.UnitTests\obj\Debug\TestProject.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.UnitTests\obj\Debug\TestProject.UnitTests.dll
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.UnitTests\obj\Debug\TestProject.UnitTests.pdb
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\bin\Debug\data.xml
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\bin\Debug\guitars.xml
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\bin\Debug\TestProject.UnitTests.dll
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\bin\Debug\TestProject.UnitTests.pdb
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\bin\Debug\TestProject.Domain.pdb
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\obj\Debug\TestProject.UnitTests.csproj.AssemblyReference.cache
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\obj\Debug\TestProject.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\obj\Debug\TestProject.UnitTests.csproj.CopyComplete
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\obj\Debug\TestProject.UnitTests.dll
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.UnitTests\obj\Debug\TestProject.UnitTests.pdb

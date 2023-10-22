@@ -16,3 +16,12 @@ C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\data.xml
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.ProcessOne.exe
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.ProcessOne.pdb
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.csprojResolveAssemblyReference.cache
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\Application\data.xml
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\Application\TestProject.ProcessOne.exe.config
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\Application\TestProject.ProcessOne.exe
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\Application\TestProject.ProcessOne.pdb
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.csproj.AssemblyReference.cache
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.csproj.CoreCompileInputs.cache
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.csproj.CopyComplete
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.exe
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessOne\obj\Debug\TestProject.ProcessOne.pdb

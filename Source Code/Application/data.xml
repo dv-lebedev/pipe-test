@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+  <tag1>мусор</tag1>
+  <tag2 info="true">груша</tag2>
+  <tag3>
+    <ext info="true">яблоко</ext>
+    <ext2 info="false">колесо</ext2>
+  </tag3>
+</data>

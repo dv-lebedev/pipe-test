@@ -13,3 +13,7 @@ C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\Application\TestProject.P
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.csprojResolveAssemblyReference.cache
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.exe
 C:\Users\Denis_Lebedev\Desktop\TestProject\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.pdb
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.csproj.AssemblyReference.cache
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.csproj.CoreCompileInputs.cache
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.exe
+C:\Users\TheLebedevs\Source\Repos\pipe-test\Source Code\TestProject.ProcessTwo\obj\Debug\TestProject.ProcessTwo.pdb

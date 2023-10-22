@@ -44,9 +44,7 @@ namespace TestProject.Domain
 
         public string Read()
         {
-            int size = 0;
-
-            size = stream.ReadByte() * 256;
+            int size = stream.ReadByte() * 256;
             size += stream.ReadByte();
 
             byte[] buffer = new byte[size];
